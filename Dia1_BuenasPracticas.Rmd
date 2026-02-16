@@ -824,7 +824,7 @@ knitr::include_graphics("figures/palmerpenguins.png")
 - GitHub: [palmerpenguins](https://github.com/allisonhorst/palmerpenguins/)
 - Zenodo del paquete: [allisonhorst/palmerpenguins: v0.1.0](https://zenodo.org/records/3960218)
 - Zenodo de los datos: [datos de palmerpenguins](https://zenodo.org/records/14902740)
-- Datos provenientes de: Gorman KB, Williams TD, Fraser WR (2014). Ecological sexual dimorphism and environmental variability within a community of Antarctic penguins (genus Pygoscelis). PLoS ONE 9(3):e90081.https://doi.org/10.1371/journal.pone.0090081
+- Artículo: https://doi.org/10.1371/journal.pone.0090081
 
 ```{r, echo=FALSE, out.width='60%', fig.align='center'}
 knitr::include_graphics("figures/culmen_depth.png")
@@ -850,7 +850,7 @@ class: inverse, center, middle
 
 ---
 
-## 📚 Actividad: Miniresumen personal + foto para tu repositorio
+## 📚 Actividad 1: Miniresumen personal + foto para tu repositorio
 
 .pull-left[
 - Escribe un **miniresumen** en texto plano sobre ti. Debe tener entre 5 y 10 líneas.
@@ -883,7 +883,7 @@ knitr::include_graphics("figures/step1_newrepository.png")
 
 ---
 
-### 2. Seleccionar la configuración y dar click en crear repositorio
+### 2. Seleccionar la configuración y dar clic en crear repositorio
 
 ```{r, echo=FALSE, out.width='80%', fig.align='center'}
 knitr::include_graphics("figures/step2_config.png")
@@ -891,7 +891,7 @@ knitr::include_graphics("figures/step2_config.png")
 
 ---
 
-### 3. Da click en el lapiz (✏️) para editar el *README.md*
+### 3. Da clic en el lapiz (✏️) para editar el *README.md*
 
 ```{r, echo=FALSE, out.width='60%', fig.align='center'}
 knitr::include_graphics("figures/step3_README.png")
@@ -930,6 +930,31 @@ Pueden generar su propio README para su perfil usando [GitHub Profile README Gen
 ```{r, echo=FALSE, out.width='60%', fig.align='center'}
 knitr::include_graphics("figures/step4_README_github.png")
 ```
+
+.left[.footnote[.black[
+Imagen tomada de: [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+]]]
+
+
+---
+
+## 📚 Actividad 2: Crear un sitio de Páginas de GitHub (nuestro dominio)
+
+1. Crear un repositorio con el mismo nombre de usuario colocando: <user>.github.io o <organization>.github.io.
+
+```{r, echo=FALSE, out.width='60%', fig.align='center'}
+knitr::include_graphics("figures/step1_dominio.png")
+```
+
+2. Configura el repositorio como Público.
+
+3. Agrega un README (opcional).
+
+4. Haz clic en Create repository (Crear repositorio).
+
+.left[.footnote[.black[
+Imagen tomada de: [GitHub pages](https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site)
+]]]
 
 ---
 class: center, middle
