@@ -337,7 +337,7 @@ Imagen tomada de: https://devcom.com/tech-blog/code-quality-definition-how-to-im
 5. Verificación / Realizar pruebas
 
 6. Depuración / Detectar los errores y corregirlos
-> Programacion defensiva
+> Programación defensiva
 
 7. Documentación
 ]
@@ -427,7 +427,7 @@ Tras meses de trabajo y espera, finalmente obtienes los resultados de tu anális
 
 3. **No repitas tu código.** Crea pasos reproducibles o que se repitan por si solas. ➰
 
-4. Planifique los errores (**Programacion defensiva**) 🚩
+4. Planifique los errores (**Programación defensiva**) 🚩
 
 5. Optimice el software sólo después de que funcione correctamente. - Si funciona no lo modifiques, simplificalo.
 
@@ -955,6 +955,24 @@ knitr::include_graphics("figures/step1_dominio.png")
 .left[.footnote[.black[
 Imagen tomada de: [GitHub pages](https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 ]]]
+
+---
+
+## 📌 Tareas
+
+Traer para la Próxima clase: **19 de febrero, 2026**, vamos a crear nuestra página web empleando GitHub pages, por lo que deben traer:
+
+.pull-left[
+1. Sincronizar su GitHub con Rstudio, revisar el material de [Conectar a GitHub con SSH](https://eveliacoss.github.io/Workshop_GitGithub2025/Parte1.html).
+
+2. Traer una foto y su miniresumen para crear su página web con GitHub pages
+]
+
+.pull-right[
+```{r, echo=FALSE, out.width='40%', fig.align='center'}
+knitr::include_graphics("figures/EveliaCoss_webpage.jpg")
+```
+]
 
 ---
 class: center, middle
