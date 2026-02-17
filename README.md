@@ -20,7 +20,7 @@
 ### Introducción a Quarto
 
 - Fecha: jueves 19 de febrero, 2026 
-- Material: [Libro]()  
+- Material: [Libro](https://eveliacoss.github.io/LCG2026_Buenas_practicas_libro/)  
 
 ----------
 Cursos hechos con amor 💜
